@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charlestriplett
 - 👀 I’m interested in space
-- 🌱 I’m currently learning stltrackong use.
+- 🌱 I’m currently learning stltracking use.
 - 💞️ I’m looking to collaborate on programs
 - 📫 How to reach me at charlestriplett13@gmail.com
 
